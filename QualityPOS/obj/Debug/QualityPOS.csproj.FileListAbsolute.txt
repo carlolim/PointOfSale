@@ -1,0 +1,139 @@
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\QualityPOS.exe.config
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\QualityPOS.exe
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\QualityPOS.pdb
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\Dapper.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.Properties.Resources.resources
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.csproj.GenerateResource.Cache
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.csproj.CoreCompileInputs.cache
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.exe
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.pdb
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.Form1.resources
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmLogin.resources
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmSales.resources
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmProducts.resources
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmStore.resources
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmFilterDateRange.resources
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmProductsNew.resources
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmStoreAddProduct.resources
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmStoreCurrentUser.resources
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmSalesNewSale.resources
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmSalesPayment.resources
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmProductsEdit.resources
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmNewBrandCategory.resources
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmUsers.resources
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmUsersNew.resources
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmUsersEdit.resources
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.TrustInfo.xml
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.exe.manifest
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\QualityPOS.exe.manifest
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\QualityPOS.application
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.application
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmSalesEditSale.resources
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.csproj.QualityPOS.exe.config
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmReportViewer.resources
+C:\Users\Lim\Documents\Visual Studio 2017\Projects\QualityPOS\QualityPOS\obj\Debug\QualityPOS.csprojResolveAssemblyReference.cache
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.csprojAssemblyReference.cache
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.exe.config
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.Form1.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmBrowseStore.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmBrowseStoreSales.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmFilterDateRange.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmLogin.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmMain.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmMyAccount.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmNewBrandCategory.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmReportViewer.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmSalesEditSale.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmUsersEdit.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmUsersNew.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmUsers.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmProductsEdit.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmProductsNew.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmSalesPayment.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmSalesNewSale.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmStoreCurrentUser.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmStoreAddProduct.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmStore.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmProducts.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.frmSales.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.Properties.Resources.resources
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.csproj.GenerateResource.cache
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.exe.licenses
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.csproj.CoreCompileInputs.cache
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.TrustInfo.xml
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.exe
+C:\Users\Lim\Source\Repos\QualityPOS\QualityPOS\obj\Debug\QualityPOS.pdb
